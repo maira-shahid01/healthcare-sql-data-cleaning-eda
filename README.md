@@ -43,4 +43,5 @@ About 10% of Hospital values (5,698 rows) are truncated, for example, names star
 
 ## 📬 Contact
 
-🔗 [LinkedIn – Maira Shahid](www.linkedin.com/in/maira-shahid-598bb1317)
+🔗 [LinkedIn – Maira Shahid](https://www.linkedin.com/in/maira-shahid-598bb1317/)
+
